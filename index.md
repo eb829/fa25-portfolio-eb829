@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Esmeralda Bernal-Martinez>
 ---
 
 ## About Me

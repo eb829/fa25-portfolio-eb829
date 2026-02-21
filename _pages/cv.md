@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Esmeralda Bernal> - Curriculum Vitae
+title: Esmeralda Bernal - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae

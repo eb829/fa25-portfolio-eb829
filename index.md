@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Esmeralda Bernal-Martinez>
+title: Esmeralda Bernal-Martinez
 ---
 
 ## About Me

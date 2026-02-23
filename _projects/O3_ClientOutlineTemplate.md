@@ -3,14 +3,14 @@ layout: project
 title: Client Outline Template
 description: PDF example project
 technologies: [Template, PDF]
-image: /assets/images/radio-machine-cad.jpg
+image: assets/images/radio-machine-cad.jpg
 permalink: /projects/client-outline/
 ---
 layout: project
 title: Client Outline Template
 description: PDF example project
 technologies: [Template, PDF]
-image: /assets/images/radio-machine-cad.jpg  # small thumbnail for gallery
+image: assets/images/radio-machine-cad.jpg  # small thumbnail for gallery
 ---
 
 <h2>Client Outline Template</h2>

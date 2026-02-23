@@ -12,10 +12,10 @@ permalink: /projects/client-outline/
 <p>This is a PDF of my project for reference:</p>
 
 <iframe 
-  src="{{ '/assets/O3_ClientOutlineTemplate.pdf' | relative_url }}"
+  src="{{ '/assets/O3_ClientOutlineTemplate.pdf' | relative_url }}" 
   width="100%" 
   height="800px">
 </iframe>
 
 <p>Or download it:  
-<a href="{{ '/assets/O3_ClientOutlineTemplate.pdf' | relative_url }}" target="_blank">Download PDF</a>
+<a href="{{ '/assets/O3_ClientOutlineTemplate.pdf' | relative_url }}" target="_blank">Download PDF</a></p>

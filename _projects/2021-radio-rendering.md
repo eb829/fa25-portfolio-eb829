@@ -41,8 +41,8 @@ The functional prototype consists of the following main subsystems:
 
 ## Initial Sketches
 Overall trap sketch
-![Overall Sketch](/assets/images/Overallsketch.png) | relative_url }}){: .inline-image-l}
-</div>
+
+![Overall Sketch](/assets/images/Overallsketch.png){: .inline-image-l}
 Extendable Pole sketch
 Funnel Opening Sketch
 

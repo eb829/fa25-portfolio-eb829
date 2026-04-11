@@ -20,6 +20,16 @@ This page documents the evolution of my Spotted Lanternfly (SLF) trap, from the 
 ## <a id="client-pitch"></a>Client Pitch
 ## Problem statement
 Vineyards across the United States are plagued by spotted lantern fly infestations, which, according to the Cornell Chronicle can cause up to $8.8 million in damages per vineyard over 3 years of infestation due to vine death, reduced fruit quality, and product contamination. There is currently no available mechanical system that draws the SLFs on or near grapevines during the harvest window away from vines and concentrates them into a controlled location where they can be removed or contained.
+## Proposed direction
+Scent and Visual Cue SLF Trap:
+A cylindrical trap with holes funneling inward just large enough for an SLF to fly in that uses the scent of a Tree of Heaven and is mounted on a tall, slender silhouette to attract the SLF. This would hold a liquid to inhibit SLF flight and drown them. 
+### Intended Impact
+Our traps are adjustable and allow for the collection and management of SLF's without the harmful use for pesticides. It passively attracts and kills SLFs and get them off the crop for harvest. Additionally, it requires little human effort once set in place, making it labor efficient.
+This design aims to:
+
+- reduce **labor burden** on vineyard operators,
+- protect **grape quality** by limiting SLF contamination,
+- support **pre-harvest pest management**
 
 
 

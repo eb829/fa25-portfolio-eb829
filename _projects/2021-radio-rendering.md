@@ -41,7 +41,7 @@ The functional prototype consists of the following main subsystems:
 
 ## Initial Sketches
 Overall trap sketch
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Overall Sketch](/assets/images/Overallsketch.png){: .inline-image-l}
 Extendable Pole sketch
 Funnel Opening Sketch
 

@@ -26,7 +26,7 @@ A cylindrical trap with holes funneling inward just large enough for an SLF to f
 ### Intended Impact
 Our traps are adjustable and allow for the collection and **management of SLF's** without the harmful use for pesticides. It passively attracts and kills SLFs and get them off the crop for harvest. Additionally, it requires little human effort once set in place, making it **labor efficient**.
 ## <a id="functional-prototype"></a>Functional Prototype
-
+The purpose of this prototype was to test the **mechanical feasibility** of the trap architecture before we manufacture with real materials. Rather than proving final trapping performance, this iteration focused on whether the main subsystems could be fabricated, assembled, and operated as intended. Appart from this, we wanted to confirm thaht the measurements were physically reasonable.
 
 
 

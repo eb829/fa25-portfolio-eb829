@@ -200,4 +200,18 @@ footer {
   transform: translateX(-4px);
 }
 
-
+.inline-image {
+  max-width: 350px;
+  margin: 0px 25px 15px 25px;
+  vertical-align: top;
+  &-l {
+    @extend .inline-image;
+    float: none;      // changed from float: left
+    margin-left: 0;
+  }
+  &-r {
+    @extend .inline-image;
+    float: right;
+    margin-right: 0;
+  }
+}

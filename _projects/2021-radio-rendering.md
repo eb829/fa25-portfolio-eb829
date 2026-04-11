@@ -40,7 +40,10 @@ The functional prototype consists of the following main subsystems:
 - **extendable poll** made to adapt to be put in different location
 
 ## Initial Sketches
-
+Overall trap sketch
+</div>
+Extendable Pole sketch
+Funnel Opening Sketch
 
 ## Prototype Design Documentation
 

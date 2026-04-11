@@ -36,17 +36,30 @@ The functional prototype consists of the following main subsystems:
 - **wooden funnel**
 - **extendable poll** made to adapt to be put in different location
 
-## Design Documentation
+## Prototype Design Documentation
 
 ### Box Housing
 Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post
-McMaster: N/A, all parts from Taylor design studio
 Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box
+### Drawer
+Description: a drawer on a set of rails at the bottom of the trap to catch the SLF and store the trap liquid 
+Fabrication: glue 2 strips of wood cut to size onto the inside of the box, make the box for the drawer out of wood and cut a slit with a ledge at the bottom of the slit on either side of the drawer such that it slides into the container easily 
+### Trap Funnel 
+Fabrication: Used the bandsaw to cut flaps out of wood and used the bandsaw to cut a notch in the back of each for a rubber band/string to sit in. Drilled a hole in each flap with a hand drill. Used pliers to cut the wire and bent it into a circle. Ziptied each flap to the ring.
+### Extendable Post
+Description: two horseshoe shaped poles, where the smaller one fits into the bigger one, with holes drilled into the sides such that a rod can fit through respective holes and make the length adjustable 
+Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole
 
 
+## What Was Tested
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+This prototype focused on testing three main features:
 
+1. **Funnel mechanism**
+2. **Drawer**
+3. **Extendable Pole**
+
+---
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 I was inspired by this old radio when I made this rendering:

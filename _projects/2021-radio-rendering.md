@@ -88,7 +88,6 @@ The drawer slides along rails to allow practical access to the captured SLFs. Th
 ### Success Criteria
 
 The drawer should:
-
 - slide on and off the rails without resistance,
 - and complete **50 open-and-close cycles** without getting stuck.
 
@@ -153,13 +152,18 @@ At the same time, the prototype revealed important design issues:
 - and flap performance is sensitive to assembly quality, requiring a more foolproof mounting solution.
 Even though the prototype did not fully satisfy every success criterion, it was valuable because it confirmed the viability of our core mechanisms while exposing specific integration and durability issues that were not apparent from the concept design alone.
 ---
+
 ## Next Iteration
 
 The next prototype should focus on:
 
+---
+## End-of-Semester Demonstration
+For the end-of-semester exhibition, we will demonstrate the **flap range of motion and default position criterion** with a live demonstration of a fly model passing through the funnel flaps and the flaps returning to their default position, showing that the one-way trapping mechanism prevents escape.
+
+---
+
 
 ![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.

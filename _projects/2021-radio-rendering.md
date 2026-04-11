@@ -50,11 +50,11 @@ The functional prototype consists of the following main subsystems:
     <img src="{{ '/assets/images/Extendable-Pole-sketch.png' | relative_url }}" alt="Extendable Pole Sketch">
     <figcaption>Extendable Pole Sketch</figcaption>
   </figure>
-  <figure>
-    <img src="{{ '/assets/images/Funnel-Opening-Sketch.png' | relative_url }}" alt="Funnel Opening Sketch">
-    <figcaption>Funnel Opening Sketch</figcaption>
-  </figure>
-</div>
+ 
+   <figure class="small">
+  <img src="{{ '/assets/images/Funnel-Opening-Sketch.png' | relative_url }}" alt="Funnel Opening Sketch">
+  <figcaption>Funnel Opening Sketch</figcaption>
+</figure>
 
 ## Prototype Design Documentation
 ### Box Housing

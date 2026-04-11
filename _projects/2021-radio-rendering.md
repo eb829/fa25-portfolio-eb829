@@ -44,11 +44,9 @@ Overall trap sketch
 
 ![Overall Sketch](/assets/images/Overallsketch.png)
 
-
-
 Extendable Pole sketch
+![Overall Sketch](/assets/images/Extendable-Pole-sketch.png)
 Funnel Opening Sketch
-
 ## Prototype Design Documentation
 
 ### Box Housing

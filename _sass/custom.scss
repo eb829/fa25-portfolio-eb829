@@ -201,12 +201,12 @@ footer {
 }
 
 .inline-image {
-  max-width: 350px;
+  max-width: 250px;
   margin: 0px 25px 15px 25px;
   vertical-align: top;
   &-l {
     @extend .inline-image;
-    float: none;      // changed from float: left
+    float: none;
     margin-left: 0;
   }
   &-r {
@@ -214,4 +214,5 @@ footer {
     float: right;
     margin-right: 0;
   }
+}
 }

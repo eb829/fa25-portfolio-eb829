@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Combatting Spotted Lanternfly Design Project
-description: CAD and Manufacturing Project
+description: CAD and Manufacturing Project - Team 003 / E&J Gallo Winery
 technologies: [Autodesk Fusion, Laser Cutting, 3D Printing, Prototyping, Testing]
 image: /assets/images/radio-machine-cad.jpg
 ---
@@ -16,7 +16,11 @@ image: /assets/images/radio-machine-cad.jpg
 </div>
 
 This page documents the evolution of my Spotted Lanternfly (SLF) trap, from the original problem framing to the first functional prototype.
-![Shaded rendering of earlier version]
+---
+
+## <a id="client-pitch"></a>Client Pitch
+
+
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 

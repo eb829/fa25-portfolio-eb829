@@ -44,11 +44,14 @@ Overall trap sketch
 
 ![Overall Sketch]({{ "/assets/images/Overallsketch.png" | relative_url }}){: .inline-image-l}
 
-
 Extendable Pole sketch
+
+
 ![Extendable Pole sketch]({{ "/assets/images/Extendable-Pole-sketch.png" | relative_url }}){: .inline-image-l}
 
 Funnel Opening Sketch
+
+![Funnel Opening Sketch]({{ "/assets/images/Funnel-Opening-Sketch.png" | relative_url }}){: .inline-image-l}
 
 ## Prototype Design Documentation
 ![Funnel Opening Sketch](/assets/images/Funnel-Opening-Sketch.png)

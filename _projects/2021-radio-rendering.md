@@ -40,7 +40,6 @@ The functional prototype consists of the following main subsystems:
 - **extendable poll** made to adapt to be put in different location
 
 ## Initial Sketches
-Overall trap sketch
 
 <div class="image-row">
   <figure>

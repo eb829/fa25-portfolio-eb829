@@ -135,9 +135,28 @@ However, under non-ideal conditions such as improper flap spacing, twisted flaps
 
 As a result, **spacers will be added to the flap ring** in the next prototype to maintain proper flap spacing and orientation, reducing the likelihood of failure due to misalignment.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+---
 
-I was inspired by this old radio when I made this rendering:
+## What the Prototype Showed
+This functional prototype showed that:
+
+- the drawer mechanism can support significant loads without structural failure,
+- the rail sliding system operates smoothly and without jamming,
+- the extendable pole can be adjusted reliably and bear the trap's full weight,
+- and the funnel flap concept successfully traps a fly model under ideal conditions.
+
+At the same time, the prototype revealed important design issues:
+
+- the drawer handle requires reinforcement to withstand higher forces,
+- the funnel flaps need spacers to maintain consistent spacing and orientation,
+- and flap performance is sensitive to assembly quality, requiring a more foolproof mounting solution.
+- 
+Even though the prototype did not fully satisfy every success criterion, it was valuable because it confirmed the viability of our core mechanisms while exposing specific integration and durability issues that were not apparent from the concept design alone.
+---
+## Next Iteration
+
+The next prototype should focus on:
+
 
 ![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
 

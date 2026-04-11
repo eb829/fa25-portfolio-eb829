@@ -42,21 +42,19 @@ The functional prototype consists of the following main subsystems:
 ## Initial Sketches
 Overall trap sketch
 
-<div class="gallery-container">
-  <div class="project-gallery">
-    <div class="gallery-item">
-      <img src="{{ '/assets/images/Overallsketch.png' | relative_url }}" alt="Overall Sketch">
-      <p>Overall Sketch</p>
-    </div>
-    <div class="gallery-item">
-      <img src="{{ '/assets/images/Extendable-Pole-sketch.png' | relative_url }}" alt="Extendable Pole Sketch">
-      <p>Extendable Pole Sketch</p>
-    </div>
-    <div class="gallery-item">
-      <img src="{{ '/assets/images/Funnel-Opening-Sketch.png' | relative_url }}" alt="Funnel Opening Sketch">
-      <p>Funnel Opening Sketch</p>
-    </div>
-  </div>
+<div class="image-row">
+  <figure>
+    <img src="{{ '/assets/images/Overallsketch.png' | relative_url }}" alt="Overall Sketch">
+    <figcaption>Overall Sketch</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/Extendable-Pole-sketch.png' | relative_url }}" alt="Extendable Pole Sketch">
+    <figcaption>Extendable Pole Sketch</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ '/assets/images/Funnel-Opening-Sketch.png' | relative_url }}" alt="Funnel Opening Sketch">
+    <figcaption>Funnel Opening Sketch</figcaption>
+  </figure>
 </div>
 
 ## Prototype Design Documentation

@@ -175,6 +175,11 @@ Even though the prototype did not fully satisfy every success criterion, it was 
 
 The next prototype should focus on:
 
+- reinforcing the drawer handle to withstand higher loads during repeated use,
+- adding spacers to the flap ring to maintain consistent flap spacing and orientation,
+- improving flap mounting to reduce sensitivity to assembly errors,
+- and testing the funnel trapping mechanism with real SLFs.
+
 ---
 ## End-of-Semester Demonstration
 For the end-of-semester exhibition, we will demonstrate the **flap range of motion and default position criterion** with a live demonstration of a fly model passing through the funnel flaps and the flaps returning to their default position, showing that the one-way trapping mechanism prevents escape.

@@ -51,7 +51,7 @@ Extendable Pole sketch
 
 Funnel Opening Sketch
 
-![Funnel Opening Sketch]({{ "/assets/images/Funnel-Opening-Sketch.png" | relative_url }}){: .block-image}
+![Funnel Opening Sketch]({{ "/assets/images/Funnel-Opening-Sketch.png" | relative_url }}){: .inline-image-l}
 
 ## Prototype Design Documentation
 ### Box Housing

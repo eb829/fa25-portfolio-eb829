@@ -15,6 +15,7 @@ image: /assets/images/radio-machine-cad.jpg
   </ul>
 </div>
 
+
 This page documents the evolution of my Spotted Lanternfly (SLF) trap, from the original problem framing to the first functional prototype.
 ---
 ## <a id="client-pitch"></a>Client Pitch

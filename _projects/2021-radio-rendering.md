@@ -44,11 +44,15 @@ Overall trap sketch
 
 ![Overall Sketch](/assets/images/Overallsketch.png)
 
-Extendable Pole sketch
-![Overall Sketch](/assets/images/Extendable-Pole-sketch.png)
-Funnel Opening Sketch
-## Prototype Design Documentation
 
+Extendable Pole sketch
+![Extendable Pole sketch](/assets/images/Extendable-Pole-sketch.png)
+
+
+Funnel Opening Sketch
+
+## Prototype Design Documentation
+![Funnel Opening Sketch](/assets/images/Funnel-Opening-Sketch.png)
 ### Box Housing
 Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post
 Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box

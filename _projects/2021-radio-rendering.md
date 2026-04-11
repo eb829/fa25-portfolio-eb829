@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Combatting Spotted Lanternfly Design Project
-description: Advanced CAD Project
+description: CAD and Manufacturing Project
 technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---

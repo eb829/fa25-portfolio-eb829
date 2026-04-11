@@ -2,15 +2,21 @@
 layout: project
 title: Combatting Spotted Lanternfly Design Project
 description: CAD and Manufacturing Project
-technologies: [Autodesk Fusion]
+technologies: [Autodesk Fusion, Laser Cutting, 3D Printing, Prototyping, Testing]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+<div style="border:1px solid #ddd; border-radius:10px; padding:1rem 1.25rem; margin:1rem 0 1.5rem 0; background:#fafafa;">
+  <h2 style="margin-top:0;">Project Navigation</h2>
+  <p style="margin-bottom:0.5rem;">Use the links below to jump directly to each portfolio milestone.</p>
+  <ul style="margin-bottom:0;">
+    <li><a href="#client-pitch">Client Pitch</a></li>
+    <li><a href="#functional-prototype">Functional Prototype</a></li>
+  </ul>
+</div>
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+This page documents the evolution of my Spotted Lanternfly (SLF) trap, from the original problem framing to the first functional prototype.
+![Shaded rendering of earlier version]
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 

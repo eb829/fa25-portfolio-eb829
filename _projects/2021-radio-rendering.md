@@ -14,7 +14,7 @@ image: /assets/images/old-radio.jpg
     <li><a href="#functional-prototype">Functional Prototype</a></li>
   </ul>
 </div>
-
+</div>
 <div style="margin-top:2rem;"></div>
 
 ---

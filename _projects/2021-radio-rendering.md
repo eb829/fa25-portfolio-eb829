@@ -16,6 +16,7 @@ image: /assets/images/old-radio.jpg
 </div>
 
 <div style="margin-top:2rem;"></div>
+
 ---
 ### This page documents the evolution of my Spotted Lanternfly (SLF) trap, from the original problem framing to the first functional prototype.
 ---

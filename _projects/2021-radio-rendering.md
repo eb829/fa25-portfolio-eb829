@@ -39,6 +39,9 @@ The functional prototype consists of the following main subsystems:
 ## Design Documentation
 
 ### Box Housing
+Description: Outer housing of the trap which contains the drawer and trap funnel as well as interfaces with the extendable post
+McMaster: N/A, all parts from Taylor design studio
+Fabrication: Use bandsaw to cut wood to size, then glue sides together to form box
 
 
 

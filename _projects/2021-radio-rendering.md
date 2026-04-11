@@ -46,8 +46,7 @@ Overall trap sketch
 
 
 Extendable Pole sketch
-![Extendable Pole sketch](/assets/images/Extendable-Pole-sketch.png)
-
+![Extendable Pole sketch]({{ "/assets/images/Extendable-Pole-sketch.png" | relative_url }}){: .inline-image-l}
 
 Funnel Opening Sketch
 

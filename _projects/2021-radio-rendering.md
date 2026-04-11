@@ -74,7 +74,9 @@ The drawer should:
 
 ### Outcome
 
-*To be evaluated — can be demoed on exhibit day.*
+The drawer prototype was tested with loads up to **6 kg** — approximately half of the target load — to account for anticipated differences in material strength between the prototype and final design. The structure supported this load successfully, though the handle design requires improvement to reliably sustain higher forces during repeated pushing and pulling cycles.
+
+The drawer was also able to be reused **50 times without visible damage**, confirming the durability of the overall structure. These results suggest the core design is sound, but handle reinforcement will be a priority in the next iteration.
 
 ---
 
@@ -91,7 +93,7 @@ The drawer should:
 
 ### Outcome
 
-*To be evaluated — can be demoed on exhibit day.*
+Under a **3 kg load**, the drawer opened and closed smoothly for **15 consecutive cycles** without jamming, demonstrating that the sliding mechanism functions effectively. While the full 50-cycle target was not reached in this prototype test, the results indicate that the rail mechanism is reliable under load. Further testing at higher cycle counts and with a reinforced handle will be conducted in the next iteration.
 
 ---
 
@@ -108,28 +110,11 @@ The pole mechanism should:
 
 ### Outcome
 
-*To be evaluated — can be demoed on exhibit day.*
+The extendable pole mechanism passed all tests. The pole was successfully raised and lowered **50 times** without any visible damage or slippage, and the position-setting pin could be engaged and released with minimal force, confirming smooth and practical operation. Additionally, the pole showed no visible deformation when the trap was loaded with **6 kg**, demonstrating sufficient structural integrity for real-world use. These results indicate that the pole mechanism is well-designed and requires only minimal refinement before the next iteration. 
 
 ---
 
-## Test 4: Flap Removability and Length Adjustability
-
-The flaps on the funnel mechanism can be removed and resized depending on environmental conditions or bug activity. This test assesses how easily the flaps can be adjusted and whether they hold up under repeated modification.
-
-### Success Criteria
-
-The flaps should:
-
-- be successfully removed and reattached **50 times** without damage,
-- and have their length adjusted **50 times** without degradation.
-
-### Outcome
-
-*To be evaluated — can be demoed on exhibit day.*
-
----
-
-## Test 5: Flap Range of Motion and Default Position
+## Test 4: Flap Range of Motion and Default Position
 
 The flaps are constrained so they cannot move past vertical, keeping the funnel opening small enough to prevent SLFs from escaping. This test assesses whether the range of motion can be user-configured and whether the flaps reliably return to their default position.
 
@@ -144,8 +129,12 @@ The flaps should:
 
 ### Outcome
 
-*To be evaluated — can be demoed on exhibit day.*
-```
+The funnel mechanism was tested using a fly model on a string to simulate SLF entry and attempted escape. Under ideal conditions — with flaps properly spaced, correctly oriented, and no string interference — the fly model fell through the funnel with minimal force and could not be pulled back out, confirming that the one-way trapping concept works as intended.
+
+However, under non-ideal conditions such as improper flap spacing, twisted flaps, or a caught string, the trap either prevented the model from entering or failed to retain it. This highlights that consistent flap positioning is critical to trap performance.
+
+As a result, **spacers will be added to the flap ring** in the next prototype to maintain proper flap spacing and orientation, reducing the likelihood of failure due to misalignment.
+
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 I was inspired by this old radio when I made this rendering:

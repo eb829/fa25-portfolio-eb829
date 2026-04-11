@@ -166,4 +166,6 @@ For the end-of-semester exhibition, we will demonstrate the **flap range of moti
 
 ![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
 
+## Supporting Documentation
 
+[View full design documentation PDF]({{ "/assets/ODP5PDF.pdf" | relative_url }})

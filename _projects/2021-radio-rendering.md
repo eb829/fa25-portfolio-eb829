@@ -60,7 +60,6 @@ This prototype focused on testing three main features:
 3. **Extendable Pole**
 
 ---
-```markdown
 ## Test 1: Drawer Weight Capacity
 
 The drawer is designed to hold captured SLFs and allow for easy removal. This test assesses whether the drawer can successfully support the maximum expected load of SLFs, including a safety factor.

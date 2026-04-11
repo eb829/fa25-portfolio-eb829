@@ -150,7 +150,6 @@ At the same time, the prototype revealed important design issues:
 - the drawer handle requires reinforcement to withstand higher forces,
 - the funnel flaps need spacers to maintain consistent spacing and orientation,
 - and flap performance is sensitive to assembly quality, requiring a more foolproof mounting solution.
-- 
 Even though the prototype did not fully satisfy every success criterion, it was valuable because it confirmed the viability of our core mechanisms while exposing specific integration and durability issues that were not apparent from the concept design alone.
 ---
 ## Next Iteration

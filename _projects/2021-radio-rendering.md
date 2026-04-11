@@ -60,6 +60,93 @@ This prototype focused on testing three main features:
 3. **Extendable Pole**
 
 ---
+```markdown
+## Test 1: Drawer Weight Capacity
+
+The drawer is designed to hold captured SLFs and allow for easy removal. This test assesses whether the drawer can successfully support the maximum expected load of SLFs, including a safety factor.
+
+### Success Criteria
+
+The drawer should:
+
+- support a load of **12 kg** with a safety factor applied,
+- be closed **20 times** under that load without difficulty,
+- and show no visible damage after repeated use.
+
+### Outcome
+
+*To be evaluated — can be demoed on exhibit day.*
+
+---
+
+## Test 2: Drawer Sliding on Rails
+
+The drawer slides along rails to allow practical access to the captured SLFs. This test assesses whether the drawer mechanism operates smoothly under repeated use.
+
+### Success Criteria
+
+The drawer should:
+
+- slide on and off the rails without resistance,
+- and complete **50 open-and-close cycles** without getting stuck.
+
+### Outcome
+
+*To be evaluated — can be demoed on exhibit day.*
+
+---
+
+## Test 3: Pole Height Adjustment
+
+The trap is mounted on an adjustable pole that can be repositioned within the vineyard. This test assesses the durability and practicality of the pole adjustment mechanism.
+
+### Success Criteria
+
+The pole mechanism should:
+
+- adjust smoothly up and down,
+- and withstand **50 adjustment cycles** without sustaining damage.
+
+### Outcome
+
+*To be evaluated — can be demoed on exhibit day.*
+
+---
+
+## Test 4: Flap Removability and Length Adjustability
+
+The flaps on the funnel mechanism can be removed and resized depending on environmental conditions or bug activity. This test assesses how easily the flaps can be adjusted and whether they hold up under repeated modification.
+
+### Success Criteria
+
+The flaps should:
+
+- be successfully removed and reattached **50 times** without damage,
+- and have their length adjusted **50 times** without degradation.
+
+### Outcome
+
+*To be evaluated — can be demoed on exhibit day.*
+
+---
+
+## Test 5: Flap Range of Motion and Default Position
+
+The flaps are constrained so they cannot move past vertical, keeping the funnel opening small enough to prevent SLFs from escaping. This test assesses whether the range of motion can be user-configured and whether the flaps reliably return to their default position.
+
+### Success Criteria
+
+The flaps should:
+
+- be constrained so they cannot move past the vertical position,
+- return to their original default diameter opening after a fly passes through,
+- complete this reset **30 times** consistently,
+- and allow the user to set both the range of motion and the default resting position.
+
+### Outcome
+
+*To be evaluated — can be demoed on exhibit day.*
+```
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 I was inspired by this old radio when I made this rendering:

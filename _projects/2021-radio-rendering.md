@@ -39,6 +39,9 @@ The functional prototype consists of the following main subsystems:
 - **wooden funnel**
 - **extendable poll** made to adapt to be put in different location
 
+## Initial Sketches
+
+
 ## Prototype Design Documentation
 
 ### Box Housing
@@ -171,5 +174,4 @@ For the end-of-semester exhibition, we will demonstrate the **flap range of moti
 [View full design documentation PDF]({{ "/assets/ODP5PDF.pdf" | relative_url }})
 
 
-
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Photo of old radio]({{ "/assets/images/old-radio.jpg" 

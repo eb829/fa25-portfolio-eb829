@@ -3,7 +3,7 @@ layout: project
 title: Combatting Spotted Lanternfly Design Project
 description: CAD and Manufacturing Project - Team 003 / E&J Gallo Winery
 technologies: [Autodesk Fusion, Laser Cutting, 3D Printing, Prototyping, Testing]
-image: 
+image: <div class="image-row"> <figure><img src="{{ '/assets/images/old-radio.jpg' | relative_url }}" alt="Funnel Opening Sketch">
 ---
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:1rem 1.25rem; margin:1rem 0 1.5rem 0; background:#fafafa;">

@@ -3,7 +3,7 @@ layout: project
 title: Combatting Spotted Lanternfly Design Project
 description: CAD and Manufacturing Project - Team 003 / E&J Gallo Winery
 technologies: [Autodesk Fusion, Laser Cutting, 3D Printing, Prototyping, Testing]
-image: /assets/images/old-radio.jpg
+image: 
 ---
 
 <div style="border:1px solid #ddd; border-radius:10px; padding:1rem 1.25rem; margin:1rem 0 1.5rem 0; background:#fafafa;">
@@ -18,7 +18,6 @@ image: /assets/images/old-radio.jpg
 <div style="margin-top:2rem;"></div>
 
 ---
-</div>
 <p style="margin-bottom:0.5rem;">This page documents the evolution of my Spotted Lanternfly (SLF) trap, from the original problem framing to the first functional prototype.</p>
 </div>
 

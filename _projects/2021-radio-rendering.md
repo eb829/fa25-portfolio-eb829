@@ -9,6 +9,7 @@ image: /assets/images/old-radio.jpg
 <div style="border:1px solid #ddd; border-radius:10px; padding:1rem 1.25rem; margin:1rem 0 1.5rem 0; background:#fafafa;">
   <h2 style="margin-top:0;">Project Navigation</h2>
   <p style="margin-bottom:0.5rem;">Use the links below to jump directly to each portfolio milestone.</p>
+    <p style="margin-bottom:0.5rem;">      .</p>
   <ul style="margin-bottom:0;">
     <li><a href="#client-pitch">Client Pitch</a></li>
     <li><a href="#functional-prototype">Functional Prototype</a></li>

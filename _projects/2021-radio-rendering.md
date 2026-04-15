@@ -20,6 +20,7 @@ image: /assets/images/old-radio.jpg
 ---
 <p style="margin-bottom:0.5rem;">This page documents the evolution of my Spotted Lanternfly (SLF) trap, from the original problem framing to the first functional prototype.</p>
 </div>
+
 ---
 
 ## <a id="client-pitch"></a>Client Pitch

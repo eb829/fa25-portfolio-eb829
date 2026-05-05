@@ -74,7 +74,7 @@ Description: two horseshoe shaped poles, where the smaller one fits into the big
 Fabrication: sawed wood to desired width and length with the bandsaw, drilled holes (1cm diameter) every 2 inches in 2 out of 3 wooden parts of the same length, glued to strips of wood in a horseshoe shape, with the strips of wood with holes facing each other, for the inner and the outer part of the pole
 
 
-## What Was Tested
+## What Was Tested For Prototype 1
 
 This prototype focused on testing three main features:
 
@@ -197,6 +197,44 @@ The container includes a sliding drawer with 4 wheels mounted underneath, allowi
 Our funnel is an octagon shaped one way valve with the main success criteria of being highly adjustable. This is accomplished by having 8 flaps with pegs and holes set up so that there are 3 different lengths which leads to a corresponding number of sizes in the gap between the flaps in the center. The one way aspect is accomplished by a rubber band situated between the pegs on the flaps providing a resisting force that returns the flaps to closed position after a fly enters the trap. Underneath the rubber band there is also an octagonal hard stop so that if the rubber band is stretched beyond a certain limit the flaps will not open infinitely wide.  (see figure 2)
 Our extendable pole is made up of 2 square poles with equidistant holes along their lengths. These poles are sized such that one pole sits snugly inside the other. The poles are then connected at the desired height with screws pinning through the holes aligning in the poles.
 
+## What Was Tested For The Final Prototype: 
+## Test 1: Pole Stability
+The trap is mounted on an extendable pole that must remain stable when placed in vineyard soil. This test assesses whether the pole maintains structural stability when subjected to simulated wind conditions.
+
+### Success Criteria
+The pole should:
+- remain stable when buried in soil,
+- and withstand lateral shaking forces simulating harsh winds without tipping or shifting.
+
+### Outcome
+The pole with trap attached was placed **1 ft deep** into a bucket of loose soil and subjected to shaking. The pole was found to be **relatively unstable** at this depth. Results indicate the pole should be buried deeper or otherwise reinforced before field deployment. Future iterations should explore enhanced anchoring methods such as a wider base or a screw-in ground anchor similar to a beach umbrella.
+
+---
+
+## Test 2: Drawer Max Load Operation
+The drawer is designed to hold captured SLFs and liquid attractant and allow for easy removal. This test assesses whether the drawer operates smoothly under the maximum expected load.
+
+### Success Criteria
+The drawer should:
+- support the maximum load case of **5.4 kg** (half full of tree-of-heaven sap and half full of SLFs),
+- and complete **10 full open-and-close cycles** under that load without difficulty or visible deformation.
+
+### Outcome
+The drawer was loaded with **5.4 kg** — corresponding to the estimated max load case based on sap density (~1 g/cm³) and SLF volume — and removed and reinserted **10 times**. The drawer operated smoothly throughout with **no observed deformation**, confirming the mechanism functions reliably under realistic field conditions.
+
+---
+
+## Test 3: Funnel One-Way Trapping
+The funnel uses 8 flaps to allow SLFs to enter the trap while preventing escape. This test assesses the entry force required and whether the one-way trapping mechanism successfully retains a captured insect.
+
+### Success Criteria
+The funnel should:
+- allow a model SLF to pass through with a measurable downward force,
+- and prevent the model from being pulled back out after entry.
+
+### Outcome
+A model SLF (**2.5 × 2 × 1 cm**, **0.5 g**) made of light wood with string attached to both sides was pulled through the funnel using a spring scale. The optimal tested configuration required **0.05 N** of downward force to open the flaps, and once inside, the model **could not be pulled back out**, confirming the one-way trapping concept functions as intended. However, 0.05 N exceeds the weight of a real SLF, and a live SLF may be unable to generate sufficient force to open the flaps. This suggests replacing the current rubber band with a **thinner rubber band or removing it entirely** in the next iteration.
+
 ### Conclusion and Recommendation: 
 From our testing we concluded that our prototype successfully demonstrates the mechanical functions required for SLF capture and containment. 
 - The funnel-flaps system opens at approximately 0.05 N, and closes to block an escaping model bug.
@@ -207,15 +245,8 @@ All components function both individually and as an integrated system, indicatin
 Our testing proved that a 1.5 ft  hole is necessary to achieve adequate pole stability. WHowever, without a sharp pointed end, and with its given height, implementing this prototype at scale would require a lot of labor to dig the required slots. This makes it unsuccessful when it comes to the initial manual labor it requires. Future iterations should focus on improving pole stability through enhanced anoching methods, such as wider bases, or by adding a screw-in ground anchor similar to a beach umbrella. The pole could also include cross-bracing or guy wires for extra support in windy conditions. However, once set, this prototype is self sufficient, only requiring for the user to unlock and dispose of the fly filled drawer every couple of days, a process that takes seconds for a single trap. 
 In addition to this, the adjustability of our funnel claw system comes at a practical cost. This system was designed to be fully adjustable, with the opening having a circumference that can become smaller if the flaps are readjusted, requiring less or more force to open depending on the elastic constant of the rubber band chosen, and an optional acrylic base for stability. Being tested to open when 0.05 newtons are applied, it is still unsure if this measurement is realistic for the SFL to apply. To modify these variables the funnel claw system must be detached from the main frame entirely, requiring the user to handle several small components while in the field. This makes recalibration impractical in an outdoor environment. In future iterations we would decrease the number of variable components to simplify this process. 
 	Finally, our design did not account for rain. While rainfall does not disrupt the physical stability of the prototype, it could cause water to overflow into the container, preventing SFLs from entering. This could be resolved by mounting a small acrylic panel approximately one foot above the opening, functioning as an umbrella over the trap.
-### Testing and Results: 
-**Test 1**: We placed the extended pole with the trap about 1ft into a bucket with loose soil and shook it to test its stability and durability when subjected to harsh winds. 
-**Result**: We found burying the pole 1ft deep was relatively unstable, it should be buried deeper or otherwise reinforced moving forward. 
-**Test 2**:  We determined the max load case of the drawer would be 5.4kg (when it is half full of tree-of-heaven sap (≈ 1 g/cm3 ) and half full of SLFs). We placed 5.4kg in the drawer and took it in and out of the trap 10 times to ensure it would operate smoothly. 
-**Result**: The drawer operated smoothly in the max load case with no observed deformation.
-**Test 3**: To test the funnel, we made a rough model of an SLF of similar size and weight (2.5 by 2 by 1 cm and 0.5 g) out of light wood and attached string to both sides of it. We used a spring scale to measure the force it took to pull our model through the funnel with different funnel configurations. Then, we attempted to pull the lanternfly back up through the funnel to test that a lanternfly would hit the flaps and be unable to escape.
-**Results**: We found that the optimal tested funnel configuration took 0.05N of downward pulling force to open, and that once inside, our model lanternfly was blocked and could not be pulled out. This is greater than the weight of an SLF, and a real SLF however is likely unable to produce this much force. This implies we should replace our rubber band with a thinner rubber band or remove the rubber band entirely.
 
-
+### Bill of Materials of Final prototype
 
 ## Supporting Documentation
 

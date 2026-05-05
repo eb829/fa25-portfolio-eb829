@@ -245,11 +245,7 @@ Our testing proved that a 1.5 ft  hole is necessary to achieve adequate pole sta
 In addition to this, the adjustability of our funnel claw system comes at a practical cost. This system was designed to be fully adjustable, with the opening having a circumference that can become smaller if the flaps are readjusted, requiring less or more force to open depending on the elastic constant of the rubber band chosen, and an optional acrylic base for stability. Being tested to open when 0.05 newtons are applied, it is still unsure if this measurement is realistic for the SFL to apply. To modify these variables the funnel claw system must be detached from the main frame entirely, requiring the user to handle several small components while in the field. This makes recalibration impractical in an outdoor environment. In future iterations we would decrease the number of variable components to simplify this process. 
 	Finally, our design did not account for rain. While rainfall does not disrupt the physical stability of the prototype, it could cause water to overflow into the container, preventing SFLs from entering. This could be resolved by mounting a small acrylic panel approximately one foot above the opening, functioning as an umbrella over the trap.
 ### Videos
-<video class="video-block" controls playsinline>
-  <source src="/assets/videos/your-video.mp4" type="video/mp4">
-  <source src="/assets/videos/your-video.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+
 ### Bill of Materials of Final prototype
 <video controls playsinline style="width:100%; max-width:450px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;">
   <source src="/assets/videos/IMG_4643.mp4" type="video/mp4">

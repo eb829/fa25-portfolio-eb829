@@ -155,7 +155,7 @@ The funnel mechanism was tested using a fly model on a string to simulate SLF en
 
 However, under non-ideal conditions such as improper flap spacing, twisted flaps, or a caught string, the trap either prevented the model from entering or failed to retain it. This highlights that consistent flap positioning is critical to trap performance.
 
-As a result, **spacers will be added to the flap ring** in the next prototype to maintain proper flap spacing and orientation, reducing the likelihood of failure due to misalignment.
+As a result, **flap ring will become an octagon** in the next prototype to maintain proper flap spacing and orientation, reducing the likelihood of failure due to misalignment. This component will be 3-D printed for better fit and to have a more adjustable assempbly. Ther flaps will be able to vary in length.
 
 ---
 

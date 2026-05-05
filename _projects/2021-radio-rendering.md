@@ -244,25 +244,8 @@ All components function both individually and as an integrated system, indicatin
 Our testing proved that a 1.5 ft  hole is necessary to achieve adequate pole stability. WHowever, without a sharp pointed end, and with its given height, implementing this prototype at scale would require a lot of labor to dig the required slots. This makes it unsuccessful when it comes to the initial manual labor it requires. Future iterations should focus on improving pole stability through enhanced anoching methods, such as wider bases, or by adding a screw-in ground anchor similar to a beach umbrella. The pole could also include cross-bracing or guy wires for extra support in windy conditions. However, once set, this prototype is self sufficient, only requiring for the user to unlock and dispose of the fly filled drawer every couple of days, a process that takes seconds for a single trap. 
 In addition to this, the adjustability of our funnel claw system comes at a practical cost. This system was designed to be fully adjustable, with the opening having a circumference that can become smaller if the flaps are readjusted, requiring less or more force to open depending on the elastic constant of the rubber band chosen, and an optional acrylic base for stability. Being tested to open when 0.05 newtons are applied, it is still unsure if this measurement is realistic for the SFL to apply. To modify these variables the funnel claw system must be detached from the main frame entirely, requiring the user to handle several small components while in the field. This makes recalibration impractical in an outdoor environment. In future iterations we would decrease the number of variable components to simplify this process. 
 	Finally, our design did not account for rain. While rainfall does not disrupt the physical stability of the prototype, it could cause water to overflow into the container, preventing SFLs from entering. This could be resolved by mounting a small acrylic panel approximately one foot above the opening, functioning as an umbrella over the trap.
-### Videos
+### Videos 
 
-<div style="display:flex; gap:15px; flex-wrap:wrap; margin: 15px 0;">
-  <iframe width="315" height="560" 
-    src="https://www.youtube.com/embed/6sBUGLlLPEw" 
-    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-    allowfullscreen>
-  </iframe>
-  <iframe width="315" height="560" 
-    src="https://www.youtube.com/embed/W0OTJVW74SE" 
-    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-    allowfullscreen>
-  </iframe>
-  <iframe width="315" height="560" 
-    src="https://www.youtube.com/embed/EiTUrONDPQY" 
-    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-    allowfullscreen>
-  </iframe>
-</div>
 <div style="display:flex; gap:15px; flex-wrap:nowrap; margin: 15px 0; overflow-x:auto;">
   <iframe width="315" height="560" 
     src="https://www.youtube.com/embed/6sBUGLlLPEw" 
@@ -280,6 +263,7 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
     allowfullscreen>
   </iframe>
 </div>
+<p style="font-size:0.85rem; color:#686d85; margin-top:4px;">← Scroll to see all 3 videos</p>
 ### Bill of Materials of Final prototype
 
 <a href="{{ site.baseurl }}/assets/Bill%20of%20Materials.pdf" target="_blank">View Bill of Materials</a>

@@ -254,6 +254,13 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
   <source src="../assets/IMG_4645.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<iframe width="315" height="560" 
+  src="https://www.youtube.com/embed/6sBUGLlLPEw" 
+  style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
+  allowfullscreen>
+</iframe>
+
 ### Bill of Materials of Final prototype
 ## Supporting Documentation
 

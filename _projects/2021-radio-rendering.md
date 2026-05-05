@@ -246,15 +246,6 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
 	Finally, our design did not account for rain. While rainfall does not disrupt the physical stability of the prototype, it could cause water to overflow into the container, preventing SFLs from entering. This could be resolved by mounting a small acrylic panel approximately one foot above the opening, functioning as an umbrella over the trap.
 ### Videos
 
-<video controls playsinline style="width:100%; max-width:450px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;">
-  <source src="../assets/IMG_4643.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<video controls playsinline style="width:100%; max-width:450px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;">
-  <source src="../assets/IMG_4645.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 <iframe width="315" height="560" 
   src="https://www.youtube.com/embed/6sBUGLlLPEw" 
   style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
@@ -270,10 +261,11 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
   style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
   allowfullscreen>
 </iframe>
+
 ### Bill of Materials of Final prototype
-## Supporting Documentation
 
 <a href="{{ site.baseurl }}/assets/Bill%20of%20Materials.pdf" target="_blank">View Bill of Materials</a>
+## Supporting Documentation
 <a href="{{ site.baseurl }}/assets/ODP%205.pdf" target="_blank">View ODP 5</a>
 
 

@@ -12,7 +12,7 @@ image: /assets/images/old-radio.jpg
   <ul style="margin-bottom:0;">
     <li><a href="#client-pitch">Client Pitch</a></li>
     <li><a href="#functional-prototype">Functional Prototype</a></li>
-    <li><a href="#Client-Report">Functional Prototype</a></li>
+    <li><a href="#Client-Report">Client Report</a></li>
   <p style="margin-bottom:0.5rem;">      .</p>
   <p style="margin-bottom:0.5rem;">      .</p>
   </ul>

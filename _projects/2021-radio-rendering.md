@@ -264,8 +264,109 @@ From our testing we concluded that our prototype successfully demonstrates the m
   </iframe>
 </div>
 <p style="font-size:0.85rem; color:#686d85; margin-top:4px;">→ Scroll to see all 3 videos</p>
-### Bill of Materials of Final prototype
 
+### Bill of Materials of Final prototype
+<table style="width:100%; border-collapse:collapse; font-size:0.9rem; margin: 20px 0;">
+  <thead>
+    <tr style="background-color:#3a3f58; color:#f7f8fa;">
+      <th style="padding:10px; text-align:left; border:1px solid #ccc;">Description</th>
+      <th style="padding:10px; text-align:center; border:1px solid #ccc;">McMaster Code</th>
+      <th style="padding:10px; text-align:center; border:1px solid #ccc;">Quantity</th>
+      <th style="padding:10px; text-align:center; border:1px solid #ccc;">Unit</th>
+      <th style="padding:10px; text-align:right; border:1px solid #ccc;">Total Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:10px; border:1px solid #ccc;">(Length=6ft) Steel Bolt-Together Framing Rail Zinc-Plated, 1-1/4" Square, 0.083" Wall Thickness</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">6535K232</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$57.82</td>
+    </tr>
+    <tr style="background-color:#eef0f5;">
+      <td style="padding:10px; border:1px solid #ccc;">(Length=4ft) Steel Bolt-Together Framing Rail Zinc-Plated, 1" Square, 0.083" Wall Thickness</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">6535K212</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$38.83</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ccc;">Zinc-Flake-Coated Alloy Steel Socket Head Screw, 3/8"-16 Thread Size, 1-1/2" Long</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">91274A316</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Pack of 10</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$7.29</td>
+    </tr>
+    <tr style="background-color:#eef0f5;">
+      <td style="padding:10px; border:1px solid #ccc;">Surface-Mount Hinge with Holes, Brass, Non removable Pin, 3/4" x 5/16" Door Leaf</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1603A2</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">10</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$13.30</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ccc;">(Length=2ft) Snap-Together Mushroom-Head Fastener with Rubber Adhesive Backing, 1/2" Wide</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">96055K21</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$3.44</td>
+    </tr>
+    <tr style="background-color:#eef0f5;">
+      <td style="padding:10px; border:1px solid #ccc;">Corner Machine Bracket Finish-Your-Own, 316 Stainless Steel, 2" x 1" x 1"</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">2313N12</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">6</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$43.44</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ccc;">(Length=1 7/8") 9/16" Diameter Plastic Roller for Cabinet Drawers and Doors</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1714A5</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">4</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$7.12</td>
+    </tr>
+    <tr style="background-color:#eef0f5;">
+      <td style="padding:10px; border:1px solid #ccc;">6mm Acrylic Sheets</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">N/A</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">4</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$28.00</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ccc;">3mm Acrylic Sheets</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">N/A</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">4</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$17.00</td>
+    </tr>
+    <tr style="background-color:#eef0f5;">
+      <td style="padding:10px; border:1px solid #ccc;">Laser Cutting Manufacturing Cost</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">N/A</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Each</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$36.45</td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #ccc;">Machine Shop Time</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">N/A</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">1</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Hour</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$5.00</td>
+    </tr>
+    <tr style="background-color:#eef0f5;">
+      <td style="padding:10px; border:1px solid #ccc;">3D Printing Costs ($0.05/g)</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">N/A</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">739</td>
+      <td style="padding:10px; text-align:center; border:1px solid #ccc;">Gram</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$36.95</td>
+    </tr>
+    <tr style="background-color:#3a3f58; color:#f7f8fa; font-weight:bold;">
+      <td colspan="4" style="padding:10px; text-align:right; border:1px solid #ccc;">Total Budget Used</td>
+      <td style="padding:10px; text-align:right; border:1px solid #ccc;">$294.65</td>
+    </tr>
+  </tbody>
+</table>
 <a href="{{ site.baseurl }}/assets/Bill%20of%20Materials.pdf" target="_blank">View Bill of Materials</a>
 ## Supporting Documentation
 <a href="{{ site.baseurl }}/assets/ODP%205.pdf" target="_blank">View ODP 5</a>

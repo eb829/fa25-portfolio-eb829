@@ -175,14 +175,13 @@ At the same time, the prototype revealed important design issues:
 Even though the prototype did not fully satisfy every success criterion, it was valuable because it confirmed the viability of our core mechanisms while exposing specific integration and durability issues that were not apparent from the concept design alone.
 ---
 
-## Next Iteration
+## Goals For Next Iteration 
 
 The next prototype should focus on:
 
 - reinforcing the drawer handle to withstand higher loads during repeated use,
-- adding spacers to the flap ring to maintain consistent flap spacing and orientation,
+- Changing the shape of the flap ring to maintain consistent flap spacing and make it more adjustable for testing
 - improving flap mounting to reduce sensitivity to assembly errors,
-- and testing the funnel trapping mechanism with real SLFs.
 
 ---
 ## End-of-Semester Demonstration

@@ -251,6 +251,16 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
   Your browser does not support the video tag.
 </video>
 ### Bill of Materials of Final prototype
+<video controls playsinline style="width:100%; max-width:450px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;">
+  <source src="/assets/videos/IMG_4643.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video controls playsinline style="width:100%; max-width:450px; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;">
+  <source src="/assets/videos/IMG_4643 2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Supporting Documentation
 

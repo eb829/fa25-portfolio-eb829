@@ -246,21 +246,23 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
 	Finally, our design did not account for rain. While rainfall does not disrupt the physical stability of the prototype, it could cause water to overflow into the container, preventing SFLs from entering. This could be resolved by mounting a small acrylic panel approximately one foot above the opening, functioning as an umbrella over the trap.
 ### Videos
 
-<iframe width="315" height="560" 
-  src="https://www.youtube.com/embed/6sBUGLlLPEw" 
-  style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
-  allowfullscreen>
-</iframe>
-<iframe width="315" height="560" 
-  src="https://www.youtube.com/embed/W0OTJVW74SE" 
-  style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
-  allowfullscreen>
-</iframe>
-<iframe width="315" height="560" 
-  src="https://www.youtube.com/embed/EiTUrONDPQY" 
-  style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
-  allowfullscreen>
-</iframe>
+<div style="display:flex; gap:15px; flex-wrap:wrap; margin: 15px 0;">
+  <iframe width="315" height="560" 
+    src="https://www.youtube.com/embed/6sBUGLlLPEw" 
+    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    allowfullscreen>
+  </iframe>
+  <iframe width="315" height="560" 
+    src="https://www.youtube.com/embed/W0OTJVW74SE" 
+    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    allowfullscreen>
+  </iframe>
+  <iframe width="315" height="560" 
+    src="https://www.youtube.com/embed/EiTUrONDPQY" 
+    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    allowfullscreen>
+  </iframe>
+</div>
 
 ### Bill of Materials of Final prototype
 

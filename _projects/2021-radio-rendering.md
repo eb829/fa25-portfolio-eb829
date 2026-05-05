@@ -263,6 +263,7 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
 
 <a href="../assets/ODP%205.pdf" target="_blank">View ODP 5</a>
 <a href="assets/ODP%205.pdf" target="_blank">View ODP 5</a>
+<a href="{{ site.baseurl }}/assets/ODP%205.pdf" target="_blank">View ODP 5</a>
 [View full design documentation PDF]({{ "/assets/ODP5PDF.pdf" | relative_url }})
 
 

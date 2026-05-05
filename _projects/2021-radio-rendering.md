@@ -265,7 +265,7 @@ From our testing we concluded that our prototype successfully demonstrates the m
 </div>
 <p style="font-size:0.85rem; color:#686d85; margin-top:4px;">→ Scroll to see all 3 videos</p>
 
-### Bill of Materials of Final prototype
+### Bill of Materials for Final prototype
 <table style="width:100%; border-collapse:collapse; font-size:0.9rem; margin: 20px 0;">
   <thead>
     <tr style="background-color:#3a3f58; color:#f7f8fa;">

@@ -263,7 +263,23 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
     allowfullscreen>
   </iframe>
 </div>
-
+<div style="display:flex; gap:15px; flex-wrap:nowrap; margin: 15px 0; overflow-x:auto;">
+  <iframe width="315" height="560" 
+    src="https://www.youtube.com/embed/6sBUGLlLPEw" 
+    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex-shrink:0;"
+    allowfullscreen>
+  </iframe>
+  <iframe width="315" height="560" 
+    src="https://www.youtube.com/embed/W0OTJVW74SE" 
+    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex-shrink:0;"
+    allowfullscreen>
+  </iframe>
+  <iframe width="315" height="560" 
+    src="https://www.youtube.com/embed/EiTUrONDPQY" 
+    style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); flex-shrink:0;"
+    allowfullscreen>
+  </iframe>
+</div>
 ### Bill of Materials of Final prototype
 
 <a href="{{ site.baseurl }}/assets/Bill%20of%20Materials.pdf" target="_blank">View Bill of Materials</a>

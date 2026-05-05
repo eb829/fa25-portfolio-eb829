@@ -259,7 +259,7 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
 
 
 ## Supporting Documentation
-
+<a href="/assets/Bill-of-Materials.pdf" target="_blank">View PDF</a> 
 [View full design documentation PDF]({{ "/assets/ODP5PDF.pdf" | relative_url }})
 
 

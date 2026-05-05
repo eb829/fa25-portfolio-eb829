@@ -260,7 +260,16 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
   style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
   allowfullscreen>
 </iframe>
-
+<iframe width="315" height="560" 
+  src="https://www.youtube.com/embed/W0OTJVW74SE" 
+  style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
+  allowfullscreen>
+</iframe>
+<iframe width="315" height="560" 
+  src="https://www.youtube.com/embed/EiTUrONDPQY" 
+  style="border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px 0; display:block;"
+  allowfullscreen>
+</iframe>
 ### Bill of Materials of Final prototype
 ## Supporting Documentation
 

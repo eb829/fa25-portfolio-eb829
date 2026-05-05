@@ -259,6 +259,8 @@ In addition to this, the adjustability of our funnel claw system comes at a prac
 ### Bill of Materials of Final prototype
 ## Supporting Documentation
 <a href="/assets/Bill%20of%20Materials.pdf" target="_blank">View Bill of Materials</a>
+<a href="assets/Bill%20of%20Materials.pdf" target="_blank">View Bill of Materials</a>
+<a href="{{ site.baseurl }}/assets/Bill%20of%20Materials.pdf" target="_blank">View Bill of Materials</a>
 [View full design documentation PDF]({{ "/assets/ODP5PDF.pdf" | relative_url }})
 
 

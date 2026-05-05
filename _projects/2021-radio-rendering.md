@@ -190,6 +190,21 @@ For the end-of-semester exhibition, we will demonstrate the **flap range of moti
 
 ---
 ## <a id="Client-Report"></a>Client Report
+### Final Prototype and Application
+Our final prototype is a low-cost mechanical trap designed to attract, capture, and contain spotted lanternflies (SLFs) away from grapevines during the harvest window. The system consists of three main components: funnel system, container with a sliding drawer, and an adjustable pole. SLFs are attracted to the trap using a natural attractant, such as the tree-of-heaven sap, placed inside the container. SLFs enter through a funnel made of 8 flaps that a lanternfly can squeeze open to enter, but mesh together to prevent an SLF from exiting. The base of the container is designed so that it could hold water and or tree-of-heaven sap and is removable for easy emptying and refilling without disassembly. The drawer rolls on wheels rather than drawer rails, making reinsertion simple and reducing the need for precise alignment. The trap is mounted on an extendable pole composed of two telescoping steel rails. The height can be adjusted and secured using two bolts and nuts through aligned holes, allowing the trap to be positioned between 6 ~ 9 feet for different vineyard conditions. 
+### Conclusion and Recommendation: 
+From our testing we concluded that our prototype successfully demonstrates the mechanical functions required for SLF capture and containment. 
+- The funnel-flaps system opens at approximately 0.05 N, and closes to block an escaping model bug.
+- The drawer supports up to 12 kg and operates smoothly under load.
+- The adjustable pole provides stable mounting when placed 1.5 feet into the ground.  
+All components function both individually and as an integrated system, indicating that this is viable. However, we recommend continuing development before moving towards field testing and mass production. While the trap works under ideal conditions, it is not as user friendly or as weather resistant as we would like it to be. 
+Our testing proved that a 1.5 ft  hole is necessary to achieve adequate pole stability. WHowever, without a sharp pointed end, and with its given height, implementing this prototype at scale would require a lot of labor to dig the required slots. This makes it unsuccessful when it comes to the initial manual labor it requires. Future iterations should focus on improving pole stability through enhanced anoching methods, such as wider bases, or by adding a screw-in ground anchor similar to a beach umbrella. The pole could also include cross-bracing or guy wires for extra support in windy conditions. However, once set, this prototype is self sufficient, only requiring for the user to unlock and dispose of the fly filled drawer every couple of days, a process that takes seconds for a single trap. 
+In addition to this, the adjustability of our funnel claw system comes at a practical cost. This system was designed to be fully adjustable, with the opening having a circumference that can become smaller if the flaps are readjusted, requiring less or more force to open depending on the elastic constant of the rubber band chosen, and an optional acrylic base for stability. Being tested to open when 0.05 newtons are applied, it is still unsure if this measurement is realistic for the SFL to apply. To modify these variables the funnel claw system must be detached from the main frame entirely, requiring the user to handle several small components while in the field. This makes recalibration impractical in an outdoor environment. In future iterations we would decrease the number of variable components to simplify this process. 
+	Finally, our design did not account for rain. While rainfall does not disrupt the physical stability of the prototype, it could cause water to overflow into the container, preventing SFLs from entering. This could be resolved by mounting a small acrylic panel approximately one foot above the opening, functioning as an umbrella over the trap.
+### Testing and Results: 
+
+
+
 hello
 ## Supporting Documentation
 
